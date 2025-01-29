@@ -60,7 +60,9 @@ const ConverterForm = () => {
         </div>
 
         {/* Convert button */}
-        <button type="submit">Convert</button>
+        <button type="submit">
+          <b>Convert</b>
+        </button>
       </form>
 
       {/* Display result */}
